@@ -1,4 +1,4 @@
-A Fine Dining Restaurant
+# A Fine Dining Restaurant
 
 This repository contains the code for the frontend of a web application built using ReactJS.
 My aim was to create a beautiful and intuitive user interface. In this project, you will find a range of features that enable customers to view The menu, find information about The restaurant and so on.
